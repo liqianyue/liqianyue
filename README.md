@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liqianyue
+- 👋 Hi, I’m @cook
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Mearchine learning 
 - 💞️ I’m looking to collaborate on zezeze
