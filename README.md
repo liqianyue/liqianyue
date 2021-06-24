@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @cook
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Mearchine learning 
-- 💞️ I’m looking to collaborate on zezeze
-- 📫 How to reach me ...
+i am cook
